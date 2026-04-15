@@ -1,4 +1,4 @@
-word,-1
+word0
 jelek,-5
 eror,-2
 error,-2
@@ -7,9 +7,9 @@ rusak,-5
 gagal,-3
 lambat,-3
 lemot,-5
-buffering,-2
+lama,-2
 lag,-1
-ngelag,-1
+buffering,-
 pending,-2
 stuck,-3
 loading,-2
@@ -48,8 +48,8 @@ sekali,-1
 tapi,-1
 jangan,-5
 kecewa,-3
-termakan,-1
-belom,-1
+tunggu,-3
+gagal,-5
 malem,-1
 mencekau,-2
 menduga,-1
